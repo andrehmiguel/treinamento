@@ -1,4 +1,4 @@
-#3 Faça um Programa que peça dois números e imprima a soma.
+#03 Faça um Programa que peça dois números e imprima a soma.
 
 print("Entre com dois números para serem somados.")
 numero1 = int(input("Digite um número: "))
