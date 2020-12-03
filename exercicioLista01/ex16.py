@@ -7,7 +7,7 @@
 import math as mt
 
 
-m2 = int(input("Informe a quantidade de metros quadrados da área a ser pintada: "))
+m2 = float(input("Informe a quantidade de metros quadrados da área a ser pintada: "))
 litros = m2 / 3
 #latas = litros / 18
 #custo = latas * 80
