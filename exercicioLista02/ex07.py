@@ -10,4 +10,4 @@ for letra in frase:
         brancos += 1
     elif letra in "aeiou":
         vogais += 1
-print("A frase tem %d vogais e %d espaços em branco." % (vogais, brancos))
+print(f'A frase tem {vogais} vogais e {brancos} espaços em branco.')
